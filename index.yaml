@@ -3,7 +3,7 @@ entries:
   demo:
   - apiVersion: v2
     appVersion: 1.0.0-feature-IST-12345-JohaTestar
-    created: "2024-08-13T17:53:50.8687+02:00"
+    created: "2024-08-14T19:18:44.290355+02:00"
     description: A Helm chart for Kubernetes
     digest: 33fff3cf3f77014fc58fe139d9e8c57d2661437743d5f5e062458f384aa7d304
     name: demo
@@ -13,7 +13,7 @@ entries:
     version: 1.0.0-feature-IST-12345-JohaTestar
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-13T17:53:50.86851+02:00"
+    created: "2024-08-14T19:18:44.290158+02:00"
     description: A Helm chart for Kubernetes
     digest: 3d85f1ae724cbedb5e973a641d9086ca3f591b397dd539dc0a15fab550164d26
     name: demo
@@ -22,7 +22,7 @@ entries:
     - https://github.com/75stigers/helm-repo.git/demo-0.1.0.tgz
     version: 0.1.0
   - apiVersion: v2
-    created: "2024-08-13T17:53:50.868118+02:00"
+    created: "2024-08-14T19:18:44.289796+02:00"
     description: A Helm chart for Kubernetes
     digest: 44ef7e524269ed8e1db8a214d6e1540922195dd014c9ceb785d7326bb9386e24
     name: demo
@@ -32,12 +32,12 @@ entries:
     version: 0.0.1-SNAPSHOT-main
   - apiVersion: v2
     appVersion: 0.0.1-SNAPSHOT
-    created: "2024-08-13T17:53:50.868316+02:00"
+    created: "2024-08-14T19:18:44.289975+02:00"
     description: A Helm chart for Kubernetes
-    digest: 4879255b75bd95c7720f61d6a0ef3fd380a6a3f6fa41ce923cc4ca1f5065abc3
+    digest: baa562b423529cd97858a8165573c10a66dd228ac937f988765d24056ccdcdd2
     name: demo
     type: application
     urls:
     - https://github.com/75stigers/helm-repo.git/demo-0.0.1-SNAPSHOT.tgz
     version: 0.0.1-SNAPSHOT
-generated: "2024-08-13T17:53:50.867636+02:00"
+generated: "2024-08-14T19:18:44.289505+02:00"
