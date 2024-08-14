@@ -3,12 +3,12 @@ entries:
   demo:
   - apiVersion: v2
     appVersion: 0.0.1-SNAPSHOT
-    created: "2024-08-14T21:35:11.747704+02:00"
+    created: "2024-08-14T21:56:51.609959+02:00"
     description: A Helm chart for Kubernetes
-    digest: ae98bee8342548789f1722c97769f6e7718a7be37f2a218c279e5fc865cf3286
+    digest: 1a747eeb67bb7288fa754e44cb01777efec1750403a76c6a67575cb7903ea496
     name: demo
     type: application
     urls:
     - https://75stigers.github.io/helm-charts/demo-0.0.1-SNAPSHOT.tgz
     version: 0.0.1-SNAPSHOT
-generated: "2024-08-14T21:35:11.747425+02:00"
+generated: "2024-08-14T21:56:51.609559+02:00"
